@@ -1,0 +1,6 @@
+{
+    "label":"PICO-8",
+    "icon":"lexaloffle-pico8.png",
+    "launch":"launch.sh",
+    "description":"Fantasy retro console"
+}
